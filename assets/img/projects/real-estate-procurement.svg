@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="200" viewBox="0 0 320 200">
+  <rect width="320" height="200" fill="#f0f6fa"/>
+  <text x="22" y="32" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#345b74">Real estate procurement</text>
+  <g fill="white" stroke="#bdd3e2"><rect x="27" y="78" width="87" height="97" rx="3"/><rect x="44" y="55" width="53" height="120" rx="3"/><rect x="150" y="55" width="144" height="120" rx="5"/></g>
+  <g fill="#bad2e2"><path d="M55 70H66V82H55ZM76 70H87V82H76ZM55 92H66V104H55ZM76 92H87V104H76ZM55 114H66V126H55ZM76 114H87V126H76ZM63 147H78V175H63Z"/></g>
+  <g stroke="#91b2c8" stroke-width="3" stroke-linecap="round"><path d="M180 80H276M180 107H264M180 134H271"/></g>
+  <g stroke="#5b8b79" stroke-width="2" fill="none"><path d="M160 78L165 83L173 73M160 105L165 110L173 100M160 132L165 137L173 127"/></g>
+</svg>

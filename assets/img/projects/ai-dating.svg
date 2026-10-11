@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="200" viewBox="0 0 320 200">
+  <rect width="320" height="200" fill="#fcf2f5"/>
+  <text x="22" y="32" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#783c54">AI-driven dating</text>
+  <g fill="white" stroke="#e5c6d2"><rect x="46" y="50" width="91" height="125" rx="8"/><rect x="183" y="50" width="91" height="125" rx="8"/></g>
+  <g fill="#edd6df"><circle cx="91" cy="87" r="18"/><circle cx="228" cy="87" r="18"/><rect x="67" y="118" width="49" height="5" rx="2"/><rect x="204" y="118" width="49" height="5" rx="2"/></g>
+  <g stroke="#d7a5b9" stroke-width="3" stroke-linecap="round"><path d="M70 135H112M211 135H247M138 99H181"/></g>
+  <path d="M160 118C144 107 140 99 146 92C151 87 157 89 160 94C163 89 169 87 174 92C180 99 176 107 160 118Z" fill="#b96789"/>
+</svg>

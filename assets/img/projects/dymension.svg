@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="200" viewBox="0 0 320 200">
+  <rect width="320" height="200" fill="#f5f1fa"/>
+  <text x="22" y="32" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#634680">Dymension</text>
+  <g stroke="#bba4d1" stroke-width="3" fill="none"><path d="M70 97V130M160 97V130M250 97V130"/></g>
+  <g fill="white" stroke="#d3c4e3"><rect x="35" y="55" width="70" height="42" rx="5"/><rect x="125" y="55" width="70" height="42" rx="5"/><rect x="215" y="55" width="70" height="42" rx="5"/></g>
+  <rect x="35" y="130" width="250" height="45" rx="5" fill="#e7dcf0" stroke="#bba4d1"/>
+  <g font-family="Arial,sans-serif" font-size="11" text-anchor="middle" fill="#634680"><text x="70" y="80">Rollup</text><text x="160" y="80">Rollup</text><text x="250" y="80">Rollup</text><text x="160" y="157">Settlement · Liquidity · Bridging</text></g>
+</svg>
