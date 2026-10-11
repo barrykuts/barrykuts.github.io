@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" width="720" height="440">
+  <rect width="720" height="440" fill="#f3f0eb"/>
+  <g fill="none" stroke="#d8d0c5" stroke-width="1">
+    <path d="M70 80H650M70 150H650M70 220H650M70 290H650M70 360H650"/>
+    <path d="M120 50V390M240 50V390M360 50V390M480 50V390M600 50V390"/>
+  </g>
+  <g fill="#fffbf5" stroke="#353a3b" stroke-width="3">
+    <rect x="94" y="180" width="116" height="100" rx="10"/>
+    <rect x="300" y="132" width="116" height="148" rx="10"/>
+    <rect x="506" y="84" width="116" height="196" rx="10"/>
+  </g>
+  <g fill="none" stroke="#df6b00" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M224 230H280M268 218L280 230 268 242M430 206H486M474 194L486 206 474 218"/>
+    <path d="M120 236L141 252 180 209M326 236L347 252 386 209M532 236L553 252 592 209"/>
+  </g>
+  <g fill="#56524d" font-family="Georgia, serif" font-size="22" text-anchor="middle">
+    <text x="152" y="327">one idea</text>
+    <text x="358" y="327">one experiment</text>
+    <text x="564" y="327">a next step</text>
+  </g>
+</svg>

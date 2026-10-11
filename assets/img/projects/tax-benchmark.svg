@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="200" viewBox="0 0 320 200">
+  <rect width="320" height="200" fill="#f4f2fa"/>
+  <text x="22" y="32" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#49366b">Tax benchmark</text>
+  <rect x="22" y="48" width="276" height="132" rx="4" fill="white" stroke="#d9d1e9"/>
+  <path d="M22 76H298M22 110H298M22 144H298M123 48V180M210 48V180" stroke="#e4deed"/>
+  <g font-family="Arial,sans-serif" font-size="9" fill="#73638e"><text x="34" y="66">TEST CASE</text><text x="135" y="66">EXPECTED</text><text x="222" y="66">RESULT</text></g>
+  <g stroke="#c2b6d8" stroke-width="4" stroke-linecap="round"><path d="M35 94H101M35 128H86M35 162H96M136 94H181M136 128H190M136 162H175"/></g>
+  <g stroke="#729b88" fill="none" stroke-width="2"><path d="M230 91L235 96L245 85M230 125L235 130L245 119"/></g>
+  <circle cx="237" cy="160" r="7" fill="#eee1bb"/><path d="M237 156V161M237 163V165" stroke="#997f42" stroke-width="2"/>
+</svg>

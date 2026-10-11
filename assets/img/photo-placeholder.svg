@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="720" viewBox="0 0 600 720" role="img" aria-labelledby="title description">
+  <title id="title">Photo placeholder</title>
+  <desc id="description">A neutral silhouette marking the space for Barry Kuts's profile photo.</desc>
+  <rect width="600" height="720" fill="#e8ecef" />
+  <circle cx="300" cy="255" r="92" fill="#a7b1ba" />
+  <path d="M125 505c0-105 78-175 175-175s175 70 175 175v25H125z" fill="#a7b1ba" />
+  <text x="300" y="609" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="600" letter-spacing="3" fill="#586570">PHOTO PLACEHOLDER</text>
+</svg>

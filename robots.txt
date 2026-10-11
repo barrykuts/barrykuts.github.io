@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://barrykuts.github.io/sitemap.xml
